@@ -15,11 +15,6 @@
     "status": "deactive"
   },
   {
-    "url": "https://about.daangn.com/jobs/5046753003/",
-    "hash": "994959b1b32e92785648aeae21f37bd9",
-    "status": "active"
-  },
-  {
     "url": "https://about.daangn.com/jobs/4672452003/",
     "hash": "942758e3ccebf7446e565cba36aa6557",
     "status": "active"
@@ -107,6 +102,11 @@
   {
     "url": "https://about.daangn.com/jobs/5046759003/",
     "hash": "f42ca81562c4c8e585e62d0fd1194fd6",
+    "status": "active"
+  },
+  {
+    "url": "https://about.daangn.com/jobs/5046753003/",
+    "hash": "800c495e2d3c58d1e0fe2a378acbb5de",
     "status": "active"
   }
 ]
