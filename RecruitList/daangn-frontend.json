@@ -30,13 +30,13 @@
     "status": "active"
   },
   {
-    "url": "https://about.daangn.com/jobs/5551043003/",
-    "hash": "d6e485887278f8675b3116d9bf1ab5d0",
-    "status": "active"
-  },
-  {
     "url": "https://about.daangn.com/jobs/5816257003/",
     "hash": "f33bbb494ffea1724f416aa608f8290d",
     "status": "deactive"
+  },
+  {
+    "url": "https://about.daangn.com/jobs/5551043003/",
+    "hash": "5e3366b78ab59c211f7d1038b4630d55",
+    "status": "active"
   }
 ]
