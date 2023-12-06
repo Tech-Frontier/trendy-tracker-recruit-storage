@@ -1,12 +1,12 @@
 [
   {
-    "url": "https://www.wanted.co.kr/wd/193926",
-    "hash": "1f8899069146d9012e7743c40cb96b3a",
-    "status": "active"
-  },
-  {
     "url": "https://career.programmers.co.kr/job_positions/8943",
     "hash": "48ce9db93c3ef4ff5cdc20094f193db9",
     "status": "active"
+  },
+  {
+    "url": "https://www.wanted.co.kr/wd/193926",
+    "hash": "1f8899069146d9012e7743c40cb96b3a",
+    "status": "deactive"
   }
 ]
