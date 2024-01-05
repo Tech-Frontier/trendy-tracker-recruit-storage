@@ -5,11 +5,6 @@
     "status": "active"
   },
   {
-    "url": "https://career.programmers.co.kr/job_positions/24120",
-    "hash": "cb34f3983e63804f09dfc2ed918f1d58",
-    "status": "active"
-  },
-  {
     "url": "https://career.programmers.co.kr/job_positions/19026",
     "hash": "cb34f3983e63804f09dfc2ed918f1d58",
     "status": "active"
@@ -17,6 +12,11 @@
   {
     "url": "https://career.programmers.co.kr/job_positions/11116",
     "hash": "cb34f3983e63804f09dfc2ed918f1d58",
+    "status": "active"
+  },
+  {
+    "url": "https://career.programmers.co.kr/job_positions/24120",
+    "hash": "56516a3a6fabbeaee23ec1f7ac9fd935",
     "status": "active"
   }
 ]
