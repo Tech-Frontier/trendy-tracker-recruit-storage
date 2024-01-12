@@ -1,12 +1,12 @@
 [
   {
-    "url": "https://career.programmers.co.kr/job_positions/17944",
+    "url": "https://career.programmers.co.kr/job_positions/1701",
     "hash": "cb34f3983e63804f09dfc2ed918f1d58",
     "status": "active"
   },
   {
-    "url": "https://career.programmers.co.kr/job_positions/1701",
+    "url": "https://career.programmers.co.kr/job_positions/17944",
     "hash": "cb34f3983e63804f09dfc2ed918f1d58",
-    "status": "active"
+    "status": "deactive"
   }
 ]
