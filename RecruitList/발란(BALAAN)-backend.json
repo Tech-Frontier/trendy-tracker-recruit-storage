@@ -5,11 +5,6 @@
     "status": "active"
   },
   {
-    "url": "https://www.wanted.co.kr/wd/165485",
-    "hash": "26798220f551e2545c888cbd6cd7eb1e",
-    "status": "active"
-  },
-  {
     "url": "https://www.wanted.co.kr/wd/165486",
     "hash": "178f4ad803ca5412ed085f6f604be746",
     "status": "active"
@@ -17,6 +12,11 @@
   {
     "url": "https://www.wanted.co.kr/wd/201056",
     "hash": "30b28cc279f01e791f6b63bda03236c9",
+    "status": "active"
+  },
+  {
+    "url": "https://www.wanted.co.kr/wd/165485",
+    "hash": "4feede0da858adba9c76c16638a9782d",
     "status": "active"
   }
 ]
