@@ -10,13 +10,13 @@
     "status": "deactive"
   },
   {
-    "url": "https://www.wanted.co.kr/wd/45650",
-    "hash": "9c7110e81c2e8e001546f77c4c1ad59d",
-    "status": "active"
-  },
-  {
     "url": "https://www.wanted.co.kr/wd/196993",
     "hash": "2fdad23f27568a0ce8066ad1703a3eca",
     "status": "active"
+  },
+  {
+    "url": "https://www.wanted.co.kr/wd/45650",
+    "hash": "9c7110e81c2e8e001546f77c4c1ad59d",
+    "status": "deactive"
   }
 ]
